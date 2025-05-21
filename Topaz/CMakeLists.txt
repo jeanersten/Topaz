@@ -1,7 +1,7 @@
 ﻿add_executable(Topaz
-  "Topaz.cpp"
+  "source/Topaz.cpp"
 
-  "Topaz.h"
+  "source/Topaz.h"
 )
 
 if(CMAKE_VERSION VERSION_GREATER 3.12)
